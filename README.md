@@ -1,10 +1,9 @@
 # Machine-learning
 
-Code.ipynb is recognition of numbers through image.
+Code.ipynb is recognition of numbers through image in Kaggle competition.
+
+Report explains the Kaggle competition.
 
 Project 1 applys linear regression, basis expansion and regularisation.
 
-
-In machine learning project, I analysis data by linear regression model, basis expansion and regularisation. 
-Also, I finished handwritten digit recognition by linear approach perceptron, basis expansion perceptron, kernel perceptron and dimensionality reduction. 
-Project 1: Linear Regression, Basis Expansion and Regularisation
+Project 2 applys linear approach, basis expansion, kernel perceptron and dimensionality reduction in handwriting recognition.
